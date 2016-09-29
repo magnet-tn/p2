@@ -1,5 +1,5 @@
 # 28 September 2016
-# Project 2 - XKCD Style Password Generator for CSCI-E15 (DWA)
+# Project 2 - XKCD Style Password Generator for CSCI-E15 (DWA) (same as p2.com)
 
 ## Live URL
 <http://p2.troubleU.com>
