@@ -1,0 +1,88 @@
+html {
+    font-family: Helvetica, sans-serif;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+body {
+    margin-left: 15%;
+    background-color: #efefef;
+    background-origin: padding-box;
+    padding-left: 10px;
+}
+
+img {
+    position: absolute;
+    left: 10px;
+    top: 10px;
+    z-index: -1;
+}
+
+h1 {
+    padding-top: 20px;
+}
+
+h3 {
+    margin-top: -10px;
+    text-align: center;
+}
+
+#results {
+    margin-top: 20px;
+    text-align: center;
+}
+
+table {
+    width: 85%;
+    margin-top: -50px;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: #080;
+    color: #fff;
+    font-weight: 400;
+    background-clip: padding-box;
+    border-radius: 3px;
+}
+
+input[type="number"] {
+    width: 50px;
+}
+
+.submit {
+    background-color: #0a0;
+    color: #111;
+    font-weight: 400;
+    background-clip: padding-box;
+    border-radius: 1px;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.submit:active {
+    background-color: #080;
+    color: #fff;
+}
+
+span {
+    font-size: x-small;
+}
+
+.highlight {
+    background-color: #ffdb4d;
+}
+
+.output {
+    background-color: #ccc;
+}
